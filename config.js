@@ -44,7 +44,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['9484749430'] //ur owner number
 global.ownername = "💗 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ 🇱🇰"
 global.ytname = "YT:Ashen Rider" //ur yt chanel name
-global.location = "Sri-Lanka" //ur location
+global.location =global //ur location
 
 //bot bombdy
 global.botname = "@𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1" //ur bot name
